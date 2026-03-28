@@ -1,0 +1,9 @@
+{
+  "name": "progressive-disclosure-protocol",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "node tools/pdp-lint.mjs .",
+    "test": "node tests/pdp-lint.test.mjs"
+  }
+}
